@@ -39,8 +39,8 @@ public static void printArray(int arr[], int n)
 }
 	
 public static void main(String argc[]){
-	int arr[] = { 3, 6, 12, 1, 5, 8 };
-	int n = 6;
+	int arr[] = { 1,2,3,4,5,6,7 };
+	int n = 7;
 
 	System.out.print("Original Array: ");
 	printArray(arr, n);
